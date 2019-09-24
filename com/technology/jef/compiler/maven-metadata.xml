@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JEF forms compiler plugin</name>
+      <prefix>jef-compiler</prefix>
+      <artifactId>jef-compiler-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
